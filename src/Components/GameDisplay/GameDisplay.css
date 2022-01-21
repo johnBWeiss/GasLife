@@ -1,0 +1,46 @@
+.gameDisplayColumn {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10%;
+  margin-right: 1.5%;
+}
+
+.forrayCard {
+  /* height: 50vh; */
+  height: 44vh;
+  max-width: 17vw;
+  width: 17vw;
+  border-radius: 12%;
+  transform: rotatez(0deg);
+  transition-duration: 1s;
+  border: white 2px solid;
+}
+
+.toggleCard {
+  height: 47vh;
+
+  max-width: 17vw;
+  width: 17vw;
+  border-radius: 12%;
+  transform: rotatez(360deg);
+  transition-duration: 1.4s;
+  border: purple 5px solid;
+}
+
+.forrayButton {
+  border-radius: 8%;
+  width: 16vw;
+  border: none;
+  padding: 3%;
+  margin-top: 8%;
+  margin-left: 4%;
+  font-size: 2.5vh;
+  background-color: darkmagenta;
+  color: white;
+  font-family: "abnes";
+
+  /* @font-face {
+    font-family: ;
+    src: local("abnes"), format("ttf");
+  } */
+}

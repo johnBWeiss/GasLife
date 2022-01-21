@@ -1,0 +1,47 @@
+.Titan-column {
+  margin-left: 16.7%;
+  margin-bottom: 5%;
+  margin-top: -1.6%;
+}
+
+.TitanTop {
+  display: flex;
+}
+.TitanBottom {
+  display: flex;
+}
+
+.UR {
+  height: 20vh;
+  width: 8vw;
+  border-radius: 5%;
+}
+.UL {
+  height: 20vh;
+  width: 8vw;
+
+  margin-right: 0.95%;
+  margin-bottom: 1%;
+  border-radius: 5%;
+}
+.DR {
+  height: 20vh;
+  width: 8vw;
+
+  border-radius: 5%;
+}
+.DL {
+  height: 20vh;
+  width: 8vw;
+
+  margin-right: 1%;
+  border-radius: 5%;
+}
+
+.armour {
+  margin-bottom: 2%;
+  /* width: 11.5vw; */
+  font-family: abnes;
+  font-size: 1.5vw;
+  margin-left: -1%;
+}
